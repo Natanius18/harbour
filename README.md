@@ -1,4 +1,4 @@
-# 🌊 Port Operations Simulation with Dash
+# 🌊 **Simulation Modeling: a Harbour System**
 
 ## 📋 Overview
 An advanced, interactive port operations simulator built with Python, Dash, and Plotly. This comprehensive simulation models complex port logistics with realistic ship movements, dynamic weather conditions, and detailed financial tracking. The application provides real-time visualization of port operations, queue dynamics, and economic performance metrics.
